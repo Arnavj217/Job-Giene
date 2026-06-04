@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Mentor & Resume Analyzer",
+  "description": "An AI-powered career development platform offering resume analysis, ATS scoring, voice interview practice, skill roadmaps, and career mentor guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
