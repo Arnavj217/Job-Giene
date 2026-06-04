@@ -184,6 +184,13 @@ Most users rely on multiple platforms for:
 **Job Genie brings all these services together into one intelligent AI-powered platform**, creating a seamless career development experience.
 
 ---
+## 🌐 Deployment
+
+The application is deployed on Render and can be accessed here:
+
+👉 https://job-giene.onrender.com
+
+---
 
 ## 📈 Learning Outcomes
 
